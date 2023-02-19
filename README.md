@@ -87,6 +87,27 @@ University, San Francisco, CA
 - Laser-Cutting
   - Cutting, Etching, Engraving
 
+
+### Soft Skills
+
+- Personality
+- Constantly looking to improve
+- Open-minded
+- Personable & Patient
+- Decision making
+- Harmonizes big-picture & specifics
+- Handles complexity & intertwining ideas with agility
+- Continuously updating mental models & evaluating contexts relevant to decisions
+- Teammate Interactions
+- Honest
+- Creates shared understanding
+- Asks for help when puzzled & Mentors when proficient
+
+### Hard-Skills
+
+- Woodworking and
+- Building computers and configuring Hackintosh systems
+
 ### Hard-Skills in Computer Science
 
 #### Coding, Tools, and Languages
@@ -144,23 +165,3 @@ University, San Francisco, CA
 - Clarifies ambiguities in specifications
 - Hard-Skills & Computer Science
 - Research & data collection
-
-### Soft Skills
-
-- Personality
-- Constantly looking to improve
-- Open-minded
-- Personable & Patient
-- Decision making
-- Harmonizes big-picture & specifics
-- Handles complexity & intertwining ideas with agility
-- Continuously updating mental models & evaluating contexts relevant to decisions
-- Teammate Interactions
-- Honest
-- Creates shared understanding
-- Asks for help when puzzled & Mentors when proficient
-
-### Hard-Skills
-
-- Woodworking and
-- Building computers and configuring Hackintosh systems
