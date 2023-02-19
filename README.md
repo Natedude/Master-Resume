@@ -82,10 +82,15 @@ University, San Francisco, CA
   - w/ Plexiglass Lid on Hinges
   - Air-Outlet Fan w/ Ducting to Window
 
+---
+
 ## Skills
 <!-- make a table? or into a list or two lists? -->
 - Laser-Cutting
   - Cutting, Etching, Engraving
+- Dog-Training
+
+---
 
 ### Hard-Skills in Computer Science
 
@@ -94,7 +99,7 @@ University, San Francisco, CA
 💯 : Most Experience with
 
 - Object Oriented Programming
-  - w/ Python & Java (though I haven't used Java in years so would be very rusty)
+  - w/ Python & Java
   - Data Structures and Algorithms
 - Git, Github
 - Bash (Mac & Unix Terminals)
@@ -137,6 +142,8 @@ University, San Francisco, CA
   - Cryptography
 - Also Including: Google Apps Scripting, PHP, SQL , VueJS, Flask, Gunicorn, NGINX, Ruby, Go, Wordpress, Google Adwords and Adsense, Final Cut Pro, Adobe AfterEffects
 
+---
+
 ### Coding
 
 - Strives for elegance
@@ -147,16 +154,16 @@ University, San Francisco, CA
 
 ### Soft Skills
 
-- Personality
+- Outgoing Personality
 - Constantly looking to improve
 - Open-minded
 - Personable & Patient
-- Decision making
+- Can make tough decisions
 - Harmonizes big-picture & specifics
 - Handles complexity & intertwining ideas with agility
 - Continuously updating mental models & evaluating contexts relevant to decisions
-- Teammate Interactions
-- Honest
+- Brings Connections to Teammate Interactions
+- Honesty is one of my top values
 - Creates shared understanding
 - Asks for help when puzzled & Mentors when proficient
 
