@@ -3,9 +3,9 @@ author:
 - NateDude
 ---
 
-# Master Resume
+# Nathan Hildum's Resume
 
-## Education
+## **Education**
 
 ### **Bachelors of Science in Computer Science**
 
@@ -43,7 +43,7 @@ University, San Francisco, CA
 
 ---
 
-### Experience
+## **Experience**
 
 #### **Simulation of Real-World Software Company Environment Course**
 
@@ -84,7 +84,7 @@ University, San Francisco, CA
 
 ---
 
-## Skill, Knowledge, & Other Experience
+## **Skill, Knowledge, & More**
 
 - Tarot and Hermetic know-how from studying and reading for 15+ yrs
   - Thoth Tarot
@@ -136,13 +136,13 @@ University, San Francisco, CA
 ### Hard-Skills
 
 - Woodworking
-- Working with Tools
+- Working with power-tools
 
 ---
 
-### Hard-Skills in Computer Science
+## **Hard-Skills in Computer Science**
 
-#### Coding, Tools, and Languages
+### Coding, Tools, and Languages
 
 💯 : Most Experience with
 
@@ -187,7 +187,10 @@ University, San Francisco, CA
 - Ethical Hacking
   - Scanning networks for vulnerabilities
 - Cryptography
+- Abstract Algebra & Related Mathematical Proofs
 - Also Including: Google Apps Scripting, PHP, SQL , VueJS, Flask, Gunicorn, NGINX, Ruby, Go, Wordpress, Google Adwords and Adsense, Final Cut Pro, Adobe AfterEffects
+
+---
 
 ### Coding Quality
 
